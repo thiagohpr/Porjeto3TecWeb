@@ -2,4 +2,4 @@
 
 ## Cronograma
 
-- [ ] teste
+- [x] teste
