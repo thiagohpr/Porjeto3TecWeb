@@ -19,7 +19,8 @@
 - [ ] Criar a página de sua lista
 
 ## Semana 3 - 28/11 a 4/12
-- [ ] Projetar a comunicação do frontend com a API - Criar a página que retira informações dos filmes que renderiza ao usuário
+- [ ] Projetar a comunicação do frontend com a API - Criar a página que retira informações dos filmes que renderiza ao usuário (title/get-overview-details
+)
 - [ ] Possibilitar que o usuário salve um filme e mostrar todas as opções de estado
 - [ ] Configurar um jeito do usuário de navegar entre as muitas abas
 - [ ] Criar a barra de pesquisa com autocomplete
