@@ -7,7 +7,7 @@
 - [x] Planejar o cronograma completo
 - [x] Desenhar todos os projetos de tela
 - [x] Criar o projeto django e prepará-lo para desenvolvimento
-- [ ] Criar um projeto em react e prepará-lo para desenvolvimento
+- [x] Criar um projeto em react e prepará-lo para desenvolvimento
 
 ## Semana 2 - 21/11 a 27/11
 - [x] Projetar a endpoint que retorna todos os filmes
