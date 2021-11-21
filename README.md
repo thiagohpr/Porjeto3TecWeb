@@ -5,15 +5,15 @@
 ## Semana 1 - 17/11 a 20/11
 - [x] Criar um github
 - [x] Planejar o cronograma completo
-- [ ] Desenhar todos os projetos de tela
-- [ ] Criar o projeto django e prepará-lo para desenvolvimento
+- [x] Desenhar todos os projetos de tela
+- [x] Criar o projeto django e prepará-lo para desenvolvimento
 - [ ] Criar um projeto em react e prepará-lo para desenvolvimento
 
 ## Semana 2 - 21/11 a 27/11
-- [ ] Projetar a endpoint que retorna todos os filmes
-- [ ] Projetar a endpoint PUT que edite a situação de um filme
-- [ ] Projetar a endpoint que deletará um filme
-- [ ] Projetar a endpoint que salva um filme
+- [x] Projetar a endpoint que retorna todos os filmes
+- [x] Projetar a endpoint PUT que edite a situação de um filme
+- [x] Projetar a endpoint que deletará um filme
+- [x] Projetar a endpoint que salva um filme
 - [ ] Começar o desenvolvimento do frontend levando em consideração que serão muitas páginas - navigator 
 - [ ] Primeira versão do frontend - Integração com o backend
 - [ ] Criar a página de sua lista
