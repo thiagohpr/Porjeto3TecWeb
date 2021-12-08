@@ -2,7 +2,7 @@
     background: #fff;
     box-shadow: 0 5px 10px rgba(0,0,0,0.12), 0 5px 10px rgba(0,0,0,0.24);
     margin: 0.5rem; 
-    height: fit-content;
+    height: 8rem;
     width: 13rem;
     font-family: 'Permanent Marker', cursive;
     flex-direction: column;
@@ -24,13 +24,4 @@
     padding: .5rem;
     align-self: center;
   }
-  .header{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  .botao{
-    width:fit-content ;
-    height:2rem ;
     
-  }

@@ -1,0 +1,19 @@
+.tudo{
+    display: flex;
+    flex-direction: column;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.sinopse{
+    width: 25%;
+    height: fit-content;
+    
+}
+.formulario{
+    align-self: center;
+    width: fit-content;
+}

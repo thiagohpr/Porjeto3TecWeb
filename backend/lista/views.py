@@ -17,6 +17,7 @@ def api_lista(request,lista_id):
         lista.title = new_lista_data['title']
         lista.score = new_lista_data['score']
         lista.state = new_lista_data['state']
+        lista.url = new_lista_data['url']
         lista.save()
 
     if request.method == 'DELETE':
@@ -36,6 +37,7 @@ def api_all(request):
         lista.title=new_lista_data['title']
         lista.score = new_lista_data['score']
         lista.state = new_lista_data['state']
+        lista.url = new_lista_data['url']
         lista.save()
 
         all_listas=Lista.objects.all()
