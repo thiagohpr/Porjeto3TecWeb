@@ -14,21 +14,21 @@
 - [x] Projetar a endpoint PUT que edite a situação de um filme
 - [x] Projetar a endpoint que deletará um filme
 - [x] Projetar a endpoint que salva um filme
-- [ ] Começar o desenvolvimento do frontend levando em consideração que serão muitas páginas - navigator 
-- [ ] Primeira versão do frontend - Integração com o backend
-- [ ] Criar a página de sua lista
+- [x] Começar o desenvolvimento do frontend levando em consideração que serão muitas páginas - navigator 
+- [x] Primeira versão do frontend - Integração com o backend
+- [x] Criar a página de sua lista
 
 ## Semana 3 - 28/11 a 4/12
-- [ ] Projetar a comunicação do frontend com a API - Criar a página que retira informações dos filmes que renderiza ao usuário (title/get-overview-details
+- [x] Projetar a comunicação do frontend com a API - Criar a página que retira informações dos filmes que renderiza ao usuário (title/get-overview-details
 )
-- [ ] Possibilitar que o usuário salve um filme e mostrar todas as opções de estado
-- [ ] Configurar um jeito do usuário de navegar entre as muitas abas
-- [ ] Criar a barra de pesquisa com autocomplete
-- [ ] Projetar todos os estilos das páginas - nada muito robusto, apenas que o visual fique limpo e bom aos olhos.
+- [x] Possibilitar que o usuário salve um filme e mostrar todas as opções de estado
+- [x] Configurar um jeito do usuário de navegar entre as muitas abas
+- [x] Criar a barra de pesquisa com autocomplete
+- [x] Projetar todos os estilos das páginas - nada muito robusto, apenas que o visual fique limpo e bom aos olhos.
 
 ## Semana 4 - 5/12 a 8/12
-- [ ] Terminar os estilos das páginas
-- [ ] Verificar se as 3 primeiras funcionalidades estão em perfeito estado
+- [x] Terminar os estilos das páginas
+- [x] Verificar se as 3 primeiras funcionalidades estão em perfeito estado
 - [ ] Fazer o deploy da página
 
 ## Baixa prioridade
